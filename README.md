@@ -1,5 +1,6 @@
 # Teste-Target-Sistemas
 Teste realizado para processo seletivo de Estágio Análise e Desenvolvimento para a Target Sistemas.
+Cada arquivo para cada questão.
 
 ## Testes:
 #### Questão 2
