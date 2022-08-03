@@ -1,5 +1,3 @@
-import numpy as np
-
 def porcentagem(valor, total): #funcao para calcular porcentagem
     return round(((100 * valor)/total), 2)
 
